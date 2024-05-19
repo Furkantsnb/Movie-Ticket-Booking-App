@@ -12,3 +12,15 @@ Projenin amaçları şunlardır:
 
 
  ![unnamed](https://github.com/Furkantsnb/Movie-Ticket-Booking-App/assets/95514574/3142ccc8-8e35-42a5-a212-098ac764a004)
+
+ ![unnamed](https://github.com/Furkantsnb/Movie-Ticket-Booking-App/assets/95514574/71fb6016-75fb-4587-85f6-8b14052ad3ad)
+
+![unnamed](https://github.com/Furkantsnb/Movie-Ticket-Booking-App/assets/95514574/03192811-c4d8-4189-892f-8d6a9c165afc)
+
+![unnamed](https://github.com/Furkantsnb/Movie-Ticket-Booking-App/assets/95514574/da95b740-94c7-4e06-89f4-5540ddf90b79)
+
+![unnamed](https://github.com/Furkantsnb/Movie-Ticket-Booking-App/assets/95514574/b95126d3-c034-4dfd-87a8-304deb330be2)
+
+![unnamed](https://github.com/Furkantsnb/Movie-Ticket-Booking-App/assets/95514574/74ecf364-f64f-4e74-9eaa-498a9f936173)
+
+![unnamed](https://github.com/Furkantsnb/Movie-Ticket-Booking-App/assets/95514574/f1a41be5-faf1-47ba-aa1e-6fcc2bfca3b1)
