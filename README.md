@@ -9,3 +9,6 @@ Projenin amaçları şunlardır:
 3.	Kullanıcıların rezervasyonlarını istedikleri zaman iptal edebilmelerini ve gerekli durumlarda para iadelerini alabilmelerini sağlamak.
 4.	Kullanıcıların geçmiş rezervasyonlarını görüntüleyerek sinema aktivitelerini takip etmelerine olanak tanımak.
 5.	Yöneticilere film koleksiyonunu yönetme ve filmlerin performansını izleme yetkisi vermek.
+
+
+ ![unnamed](https://github.com/Furkantsnb/Movie-Ticket-Booking-App/assets/95514574/3142ccc8-8e35-42a5-a212-098ac764a004)
